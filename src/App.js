@@ -10,7 +10,7 @@ class App extends Component {
        <Counter />
       </div>
     );
-  }
-}
+  };
+};
 
 export default App;
